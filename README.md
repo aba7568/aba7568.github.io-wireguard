@@ -68,4 +68,4 @@ Get the info in the config files
 cat peer_pc1.conf
 ```
 ## Next Steps 
-- copy the info inot wireguard and activate 
+- copy the info into wire guard and activate 
